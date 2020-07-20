@@ -1,0 +1,24 @@
+{
+  "name": "sr-wrapper",
+  "version": "1.0.0",
+  "description": "Simple wrapper for the SovetRomantica API",
+  "main": "sr-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sovetromantica",
+    "sovetromantica wrapper",
+    "sr",
+    "sr wrapper"
+  ],
+  "author": "omashune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omashune/sr-wrapper"
+  },
+  "homepage": "https://github.com/omashune/sr-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
